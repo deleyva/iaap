@@ -73,7 +73,7 @@ Revisad vuestro mail en 5 min
 
 ---
 
-## [Cómo generar motivación en el  alumnado](https://docs.google.com/document/d/1-fP0vQiH6mKV6YjvH7gpFWm56HOvCE67dfghIuV9k4s/edit#)
+## Cómo generar motivación en el  alumnado
 
 ---
 
@@ -174,3 +174,126 @@ En [este enlace](https://creativecommons.org/licenses/?lang=es_ES) podrás acced
 ---
 
 # Hasta pasado mañana
+
+---
+
+# Tercera sesión
+
+#### Hora de evaluar
+
+---
+
+## Competencias y Planes de aprendizaje
+
+<iframe width="770" height="433" src="https://www.youtube.com/embed/G9OKqIezmyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Creamos escalas
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u2_escalas_de_calificacin.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+# Calificación interpares. Foros
+
+----
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/foros.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+----
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/configuracin_de_un_foro.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+### Creamos una tarea y la calificamos
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u4_calificar_una_actividad.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+### La sección 'informes' de Moodle
+
+![informes](img/informes.png)
+
+---
+
+# Repasemos los visto
+
+Accede a [kahoot.it](https://kahoot.it/) e introduce el siguiente pin: 
+
+---
+
+### El módulo taller
+
+<iframe src="https://mediateca.educa.madrid.org/video/nkgpa7oqathd7umu/fs" width="420" height="315" frameborder="0" scrolling="no" style="border:0;overflow:hidden" allowfullscreen></iframe>
+
+---
+
+# Rastreo de finalización e insignias
+
+----
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u4-rastreo-de-finalizacion.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+----
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u4-rastreo-de-finalizacion/informe-de-finalizacion.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+----
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u4-rastreo-de-finalizacion/finalizacion-del-curso.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+----
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u7_insignias.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+# Cómo hacer un vídeo con Screencast-o-matic
+
+----
+
+### Instalando
+
+<iframe width="770" height="458" src="https://www.youtube.com/embed/tgM-WXSZ5IM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+### Editando
+
+<iframe width="770" height="458" src="https://www.youtube.com/embed/ztbt1gSyfjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+### Scripted recording
+
+<iframe width="770" height="458" src="https://www.youtube.com/embed/0DdqSlj7K7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Grabamos un podcast
+
+----
+
+#### Grabamos el podcast
+
+<iframe width="921" height="758" src="https://www.youtube.com/embed/zzBhLApj_jA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+#### Lo subimos
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/L7cIhybsxag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Haciendo memoria
+
+Accede a [kahoot.it](https://kahoot.it/) e introduce el siguiente pin: 
+
+---
+
+### Hasta siempre y mucha suerte
+
