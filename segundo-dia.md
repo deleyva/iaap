@@ -181,6 +181,8 @@ En [este enlace](https://creativecommons.org/licenses/?lang=es_ES) podrás acced
 
 #### Hora de evaluar
 
+Entramos en nuestro moodle 1.1.8.3:81
+
 ---
 
 ## Competencias y Planes de aprendizaje
