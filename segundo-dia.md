@@ -299,3 +299,150 @@ Accede a [kahoot.it](https://kahoot.it/) e introduce el siguiente pin:
 
 ### Hasta siempre y mucha suerte
 
+---
+
+# Comunidad de prácticas "Metodologías en las actividades de formación"
+
+---
+
+## Tareas más empleadas
+
+![](img/mas-utilizadas.png)
+
+---
+
+## Tareas más empleadas por orden
+
+* Cuestionario
+* Foro
+* Glosario
+* Lección
+* Tarea
+
+---
+
+### Acceded a:
+
+* 
+* 
+
+usuario: vuestro usuario mail de preteleformacion (hasta la @)
+contraseña: 1234
+
+Usuario administrador: admin1 hasta el admin6
+contraseña: 1234
+
+---
+
+#### Establecemos las opciones predeterminadas en [este documento](https://docs.google.com/document/d/11dtcCrGGj4qnSPzWGsJJJC-uKVKpcp_bxPB5-I9EQ54/edit#)
+
+<iframe src="https://docs.google.com/document/d/11dtcCrGGj4qnSPzWGsJJJC-uKVKpcp_bxPB5-I9EQ54/edit" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+### Todo es configurable desde Administración del Sitio > Extensiones
+
+![](img/configurar-extensiones.png)
+
+---
+
+### Ojo con los bancos de preguntas
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/el_banco_de_preguntas.html#preguntas-bancos" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Note: 10:50 am
+
+---
+
+#### ¿Qué recursos de la plataforma (Moodle) utilizas en la elaboración y tutorización de cursos de teleformación?
+
+![](img/recursos.png)
+
+---
+
+#### ¿Qué actividades y recursos te gustaría aprender a utilizar para tus labores de creación de cursos de teleformación?
+
+![](img/tegustaria-aprender.png)
+
+---
+
+### Paquete SCORM. ExeLearning - la más utilizada
+
+<iframe src="https://catedu.gitbooks.io/exelearning-y-otras-herramientas/content/u2_exelearning_la_base.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+##### Paquete SCORM. Ardora - una opción muy interesante
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="569" mozallowfullscreen="mozallowfullscreen" src="https://docs.google.com/presentation/d/1CCTDXApuyDaicJoaN7hriBjMsRNPVcJy6fJPo0fk3hI/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="webkitallowfullscreen" width="960"></iframe>
+
+---
+
+### El INTEF usa IMS
+
+<iframe src="http://formacion.intef.es/course/view.php?id=585" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+### Bases de datos
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/bases_de_datos_sencillas.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+## Bienvenidos al mundo de los [plugins](https://moodle.org/plugins/)
+
+Muy importante:
+* Mirar las estadísticas
+* Las versiones para las que está disponible
+* El repositorio público si está disponible (github)
+
+---
+
+### Creando insignias
+
+<iframe src="https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/u7_insignias.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+LTI: Learning transfer interoperability
+
+* [https://www.tsugi.org/](https://www.tsugi.org/)
+* [https://www.eduappcenter.com/#](https://www.eduappcenter.com/#)
+
+---
+
+# Hora de trastear
+
+Cada uno crea un recurso en su curso
+
+---
+
+# Testeando
+
+Cada uno testea su propio recurso y el de sus compañeros
+
+---
+
+### Lo más demandado
+
+* Videos
+* flipingbook, es una herramienta que muestra un documento de varias páginas como si fuera un catalogo virtual. Me parece muy ameno
+* Herramientas para hacer vídeos
+
+---
+
+#### [Vídeos](https://catedu.gitbooks.io/edicion-de-video-tutoriales/content/)
+
+<iframe src="https://catedu.gitbooks.io/edicion-de-video-tutoriales/content/" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+### Flipingbooks
+
+* [Canva](https://www.canva.com/)
+* [Calameo](https://es.calameo.com/)
+
+---
+
+# The end
